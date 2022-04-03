@@ -13,6 +13,7 @@ oddNum()
 
     //Qn4
     numB()
+    
 }
 
 //Question1
@@ -44,11 +45,7 @@ println(" get a bottle  of fanta orange ")
     println("get a bottle of cocacola")
 }
 }
-//Write a function that prints each number from 1 to 100 on a new line. For each
-//multiple of 3, print "Fizz" instead of the number. For each multiple of 5, print
-//"Buzz" instead of the number. For numbers which are multiples of both 3 and
-//5, print "FizzBuzz" instead of the number. (4pts)
-//
+
 //question4
 fun numB() {
 for (d in 1..100) {
